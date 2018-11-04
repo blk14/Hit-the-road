@@ -1,0 +1,22 @@
+task1.out:
+
+NewYork 2
+
+task2.out:
+
+HARTA INVALIDA
+
+task3.out:
+
+Orase inaccesibile pentru Washington: Boston Chicago Wisconsin 
+Orase inaccesibile pentru LosAngeles: Boston Chicago Wisconsin 
+Orase inaccesibile pentru Wisconsin: LasVegas LosAngeles NewYork Washington
+
+task4.out:
+
+NU
+DA 0
+
+task5.out:
+
+41 LasVegas Washington LosAngeles
