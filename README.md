@@ -2,7 +2,7 @@
 A mini google maps implementation
 
 
-This application has the purpose to give the answer for 5 tasks which are frequently encountered in a applications like google maps or waze. Based on some input data such as:
+This application has the purpose to give the answer for 5 tasks which are frequently encountered in applications like google maps or waze. Based on some input data such as:
  1. a list of cities
  2. the roads between them (source - destination). The roads are unidirectional and the distance is 1 unity by default
  3. a list of cities with gas station
